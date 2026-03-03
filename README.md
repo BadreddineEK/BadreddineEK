@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist · Data Engineer · Builder</b><br/>
-  <i>Ingénieur Polytech Lyon · Mission client chez Boehringer Ingelheim (Lyon)</i>
+  <i>Ingénieur Polytech Lyon · Lyon, France</i>
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 À propos
 
-Data Scientist en mission chez **Boehringer Ingelheim** (Lyon), je conçois des outils de **data visualisation sur mesure**, des **pipelines de données automatisés** et des solutions de **machine learning appliqué**.
+Data Scientist & Data Engineer, je conçois des outils de **data visualisation sur mesure**, des **pipelines de données automatisés** et des solutions de **machine learning appliqué**.
 
 Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec un double master Maths en Action (UCBL1) et Management des Entreprises (IAE Lyon).
 
-- 🔭 Actuellement : automatisation & dashboards Streamlit en environnement industriel pharma
+- 🔭 Actuellement : automatisation, dashboards interactifs & data engineering
 - 🌱 En apprentissage : Docker, architectures LLM, Snowflake avancé
 - ⚡ Fun fact : Je construis des outils data pour mes projets perso (finances, running, trading)
 
