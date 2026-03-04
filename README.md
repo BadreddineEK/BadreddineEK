@@ -66,7 +66,7 @@ Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec 
 | [🤖 Chatbot Portfolio](https://github.com/BadreddineEK/chatbot-portfolio) | Chatbot IA intégré au portfolio | TypeScript · Next.js | [🔗](https://chatbot-portfolio-eosin.vercel.app) |
 | [🔧 Garage Booking](https://github.com/BadreddineEK/garage_booking) | App de réservation de garage en ligne | JavaScript | [🔗](https://garage-booking.vercel.app) |
 | [🌧️ Precipitation Prediction](https://github.com/BadreddineEK/-PrecipitationPrediction-) | Prédiction précipitations par ML | Python · Jupyter | [🔗](https://prediction-precipitation.streamlit.app/) |
-| [🧠 Pokédex CNN](https://github.com/BadreddineEK/pokedexCNN) | Classification Pokémon par réseau de neurones CNN | Python · Jupyter · TensorFlow | — |
+| [🧠 Pokédex CNN](https://github.com/BadreddineEK/pokedexCNN) | Classification Pokémon par réseau de neurones CNN | Python · Jupyter · TensorFlow | [🔗](https://pokedex-cnn.streamlit.app/) |
 
 ---
 
