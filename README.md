@@ -9,6 +9,7 @@
   <a href="https://badreddineek.github.io/portfolioBadreddine/"><img src="https://img.shields.io/badge/Portfolio_Classique-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://badreddineek.github.io/portfolio-ai/"><img src="https://img.shields.io/badge/Portfolio_BEK.ai-1e3a5f?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/badreddine-el-khamlichi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://share.streamlit.io/user/badreddineek"><img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -73,6 +74,10 @@ Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec 
 | [🧠 Pokédex CNN](https://github.com/BadreddineEK/pokedexCNN) | Classification Pokémon par réseau de neurones CNN | Python · Jupyter · TensorFlow | — |
 
 ---
+
+<p align="center">
+  <a href="https://share.streamlit.io/user/badreddineek">☁️ Voir toutes mes apps sur Streamlit Cloud</a>
+</p>
 
 <p align="center">
   <i>"Build things that matter. Measure everything."</i>
