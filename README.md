@@ -18,19 +18,15 @@
 
 ---
 
-## 🧑‍💻 À propos
+## À propos
 
 Data Scientist & Data Engineer, je conçois des outils de **data visualisation sur mesure**, des **pipelines de données automatisés** et des solutions de **machine learning appliqué**.
 
-Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec un double master Maths en Action (UCBL1) et Management des Entreprises (IAE Lyon).
-
-- 🔭 Actuellement : mission Data Scientist @ Efor / Boehringer Ingelheim Lyon
-- 🌱 En apprentissage : Docker, architectures LLM, Snowflake avancé
-- ⚡ Fun fact : Je construis des outils data pour mes projets perso (finances, running, trading)
+Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec un double master Maths en Action (UCBL1) et Management des Entreprises (IAE Lyon). Je travaille sur Docker, les architectures LLM et Snowflake, et je construis en parallèle des outils data pour mes projets perso — finances, running, trading.
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 **Data & ML**
 
@@ -61,27 +57,18 @@ Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec 
 
 ---
 
-## 🚀 Projets phares
+## Projets phares
 
 | Projet | Description | Stack | Live |
 |--------|-------------|-------|------|
 | [💊 Pharma KPI Platform](https://github.com/BadreddineEK/pharma-kpi-platform) | Plateforme KPI manufacturing pharma multi-sites. ETL + DuckDB + ML forecasting + alertes. CI/CD. | Python · Streamlit · DuckDB · sklearn | [🔗](https://pharmakpi.streamlit.app/) |
-| [🥇 GoldSignal](https://github.com/BadreddineEK/goldSignal) | App Streamlit d’analyse or/argent — ML walk-forward, backtesting, macro | Python · Streamlit · XGBoost · LSTM | [🔗](https://goldsignaltime.streamlit.app/) |
+| [🥇 GoldSignal](https://github.com/BadreddineEK/goldSignal) | App Streamlit d'analyse or/argent — ML walk-forward, backtesting, macro | Python · Streamlit · XGBoost · LSTM | [🔗](https://goldsignaltime.streamlit.app/) |
 | [🤖 Portfolio BEK.ai](https://github.com/BadreddineEK/portfolio-ai) | Portfolio créatif thème AI Training — neural network UI, animations, projets | HTML · CSS · JS | [🔗](https://badreddineek.github.io/portfolio-ai/) |
 | [💼 Portfolio Classique](https://github.com/BadreddineEK/portfolioBadreddine) | Portfolio professionnel responsive | HTML · CSS · JS | [🔗](https://badreddineek.github.io/portfolioBadreddine/) |
 | [🤖 Chatbot Portfolio](https://github.com/BadreddineEK/chatbot-portfolio) | Chatbot IA intégré au portfolio | TypeScript · Next.js | [🔗](https://chatbot-portfolio-eosin.vercel.app) |
 | [🔧 Garage Booking](https://github.com/BadreddineEK/garage_booking) | App de réservation de garage en ligne | JavaScript | [🔗](https://garage-booking.vercel.app) |
 | [🌧️ Precipitation Prediction](https://github.com/BadreddineEK/-PrecipitationPrediction-) | Prédiction précipitations par ML | Python · Jupyter | — |
 | [🧠 Pokédex CNN](https://github.com/BadreddineEK/pokedexCNN) | Classification Pokémon par réseau de neurones CNN | Python · Jupyter · TensorFlow | — |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BadreddineEK&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadreddineEK&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
 
 ---
 
