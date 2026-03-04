@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://pharmakpi.streamlit.app/"><img src="https://img.shields.io/badge/Pharma_KPI_Platform-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   <a href="https://goldsignaltime.streamlit.app/"><img src="https://img.shields.io/badge/GoldSignal_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://forecasting-llm.streamlit.app/"><img src="https://img.shields.io/badge/ForecastingLLM_Lab-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 </p>
 
 ---
@@ -62,6 +63,7 @@ Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec 
 | Projet | Description | Stack | Live |
 |--------|-------------|-------|------|
 | [💊 Pharma KPI Platform](https://github.com/BadreddineEK/pharma-kpi-platform) | Plateforme KPI manufacturing pharma multi-sites. ETL + DuckDB + ML forecasting + alertes. CI/CD. | Python · Streamlit · DuckDB · sklearn | [🔗](https://pharmakpi.streamlit.app/) |
+| [🔬 ForecastingLLM](https://github.com/BadreddineEK/ForecastingLLM) | Lab d'évaluation probabiliste d'un LLM (GPT-5.2) sur 3 domaines : Météo, Marchés, Marathon. Brier Score + MAE. Web ON vs OFF. | Python · Streamlit · SciPy · Plotly | [🔗](https://forecasting-llm.streamlit.app/) |
 | [🥇 GoldSignal](https://github.com/BadreddineEK/goldSignal) | App Streamlit d'analyse or/argent — ML walk-forward, backtesting, macro | Python · Streamlit · XGBoost · LSTM | [🔗](https://goldsignaltime.streamlit.app/) |
 | [🤖 Portfolio BEK.ai](https://github.com/BadreddineEK/portfolio-ai) | Portfolio créatif thème AI Training — neural network UI, animations, projets | HTML · CSS · JS | [🔗](https://badreddineek.github.io/portfolio-ai/) |
 | [💼 Portfolio Classique](https://github.com/BadreddineEK/portfolioBadreddine) | Portfolio professionnel responsive | HTML · CSS · JS | [🔗](https://badreddineek.github.io/portfolioBadreddine/) |
