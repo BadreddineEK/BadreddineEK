@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist · Data Engineer · Builder</b><br/>
-  <i>Ingénieur Polytech Lyon · Lyon, France</i>
+  <i>Ingénieur Curieux · Lyon, France</i>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 Data Scientist & Data Engineer, je conçois des outils de **data visualisation sur mesure**, des **pipelines de données automatisés** et des solutions de **machine learning appliqué**.
 
-Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec un double master Maths en Action (UCBL1) et Management des Entreprises (IAE Lyon). Je travaille sur Docker, les architectures LLM/RAG (LangChain, Groq), Snowflake et Databricks — et je construis en parallèle des outils data pour mes projets perso.
+Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées), avec un double master Maths en Action (UCBL1) et Management des Entreprises (IAE Lyon). Je travaille sur Docker, les architectures LLM/RAG (LangChain, Groq), Snowflake et Databricks et je construis en parallèle des outils data pour mes projets perso.
 
 ---
 
