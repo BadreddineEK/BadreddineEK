@@ -58,13 +58,14 @@ Formé à **Polytech Lyon** (Ingénieur Mathématiques Appliquées, 2024), avec 
 
 | Projet | Description | Stack | Live |
 |--------|-------------|-------|------|
+| [🤖 Job Market Analyzer](https://github.com/BadreddineEK/job-market-analyzer) | Analyseur de marché de l'emploi LLM-powered — scraping, analyse et insights personnalisés depuis des offres d'emploi. LangChain + Groq + Streamlit. | Python · Streamlit · LangChain · Groq · LLM | [🔗](https://github.com/BadreddineEK/job-market-analyzer) |
+| [🎓 Streamlit Intro](https://github.com/BadreddineEK/streamlit-intro) | App Streamlit interactive pour apprendre Streamlit — widgets, dataviz, déploiement. | Python · Streamlit · Plotly | [🔗](https://github.com/BadreddineEK/streamlit-intro) |
 | [💊 Pharma KPI Platform](https://github.com/BadreddineEK/pharma-kpi-platform) | Plateforme KPI manufacturing pharma multi-sites. ETL + DuckDB + ML forecasting + alertes. CI/CD. | Python · Streamlit · DuckDB · sklearn | [🔗](https://pharmakpi.streamlit.app/) |
 | [🔬 ForecastingLLM](https://github.com/BadreddineEK/ForecastingLLM) | Lab d'évaluation probabiliste d'un LLM (GPT-5.2) sur 3 domaines : Météo, Marchés, Marathon. Brier Score + MAE. Web ON vs OFF. | Python · Streamlit · SciPy · Plotly | [🔗](https://forecasting-llm.streamlit.app/) |
 | [🥇 GoldSignal](https://github.com/BadreddineEK/goldSignal) | App Streamlit d'analyse or/argent — ML walk-forward, backtesting, macro | Python · Streamlit · XGBoost · LSTM | [🔗](https://goldsignaltime.streamlit.app/) |
 | [🤖 Portfolio BEK.ai](https://github.com/BadreddineEK/portfolio-ai) | Portfolio créatif thème AI Training — neural network UI, animations, projets | HTML · CSS · JS | [🔗](https://badreddineek.github.io/portfolio-ai/) |
 | [💼 Portfolio Classique](https://github.com/BadreddineEK/portfolioBadreddine) | Portfolio professionnel responsive | HTML · CSS · JS | [🔗](https://badreddineek.github.io/portfolioBadreddine/) |
 | [🤖 Chatbot Portfolio](https://github.com/BadreddineEK/chatbot-portfolio) | Chatbot IA intégré au portfolio | TypeScript · Next.js | [🔗](https://chatbot-portfolio-eosin.vercel.app) |
-| [🔧 Garage Booking](https://github.com/BadreddineEK/garage_booking) | App de réservation de garage en ligne | JavaScript | [🔗](https://garage-booking.vercel.app) |
 | [🌧️ Precipitation Prediction](https://github.com/BadreddineEK/-PrecipitationPrediction-) | Prédiction précipitations par ML | Python · Jupyter | [🔗](https://prediction-precipitation.streamlit.app/) |
 | [🧠 Pokédex CNN](https://github.com/BadreddineEK/pokedexCNN) | Classification Pokémon par réseau de neurones CNN | Python · Jupyter · TensorFlow | [🔗](https://pokedex-cnn.streamlit.app/) |
 
